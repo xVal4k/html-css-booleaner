@@ -1,0 +1,67 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+header {
+    background-image: url(../img/pattern.png);
+    background-color: rgb(13, 193, 248); 
+    background-size: 450px;
+    height: 100px;
+    margin-left: -100px;
+    margin-right: -100px;
+}
+
+#logo {
+    padding-top: 50px;
+    margin-left: 100px;
+}
+
+#titolo {
+    font-size: 40px;
+    margin: auto;
+}
+
+#sezione-titolo {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#link-sito {
+    color:rgb(38, 141, 238);
+    text-decoration: none;
+}
+
+.div-titolo {
+    color: lightslategray;
+}
+
+#data {
+    font-size: 10px;
+}
+
+#div-foto {
+    font-size: 10px;
+}
+
+span {
+    background-color: yellow;
+}
+
+thead {
+    color: white ;
+    background-color: rgb(8, 165, 228);
+}
+
+.riga-colorata {
+    background-color: lightskyblue;
+}
+
+.td-lungo {
+    width: 50%;
+}
+
+#p-footer {
+    color: lightslategray;
+}
